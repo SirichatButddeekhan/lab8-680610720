@@ -1,4 +1,4 @@
-# Lab 07 - Student API (API #1)
+# Lab 8
 
 ### ป้อนข้อมูลนักศึกษา
 
@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล :ศิริชาติ บุตรดีขันธ์
 
-Vercel URL :
+Vercel URL :https://lab8-680610720-rj6gt7jmn-sirichatbutddeekhans-projects.vercel.app
 
 ---
 
